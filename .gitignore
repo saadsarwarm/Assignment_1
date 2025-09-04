@@ -1,0 +1,4 @@
+oldingress.yaml
+*.gz
+*.sh
+windows-amd64
